@@ -1,0 +1,16 @@
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\pratice\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\pratice\mycalculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\pratice\mycalculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\pratice\mycalculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\pratice\mycalculator\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\pratice\mycalculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\pratice\mycalculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\pratice\mycalculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\pratice\mycalculator\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
